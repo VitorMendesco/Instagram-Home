@@ -1,6 +1,6 @@
 # Instagram Home
 
-`Projeto para treinamento de HTML e CSS básico com resposividade, com o objetivo de simular a página WEB oficial do Instagram!`
+`Projeto para treinamento de HTML e CSS básico com responsividade, com o objetivo de simular a página WEB oficial do Instagram!`
 
 > **4 horas** de desenvolvimento
 
