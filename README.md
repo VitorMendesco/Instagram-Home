@@ -1,4 +1,4 @@
-# Instagram Home 🙃
+# Instagram Home
 
 `Projeto para treinamento de HTML e CSS básico com resposividade, com o objetivo de simular a página WEB oficial do Instagram!`
 
