@@ -1,9 +1,14 @@
 # **Instagram Home**
 
-`Projeto para treinamento de HTML e CSS básico com responsividade, com o objetivo de simular a página WEB oficial do Instagram!`
-
+>`Project for basic HTML and CSS training with responsiveness, with the aim of simulating the official Instagram WEB page!`
+>
+>#
+>
+>>To start application, just run open **index.html**
+>
+><br />
 #
-**<p align=center style="font-size: 1.5rem"><u>4 horas de desenvolvimento</u></p>**
+**<p align=center style="font-size: 1.5rem"><u>4 hours development</u></p>**
 
 <div align="center" style="display: inline_block;">
   <img align="center" alt="prints" width="90%" src="img/print1.png">
@@ -16,7 +21,7 @@
 
 #
 ## 
-><p align=center style="font-size: 1.6rem">Tecnologias</p>
+><p align=center style="font-size: 1.6rem">Technologies</p>
 <div align="center" style="display: inline_block;">
   <a href="https://devdocs.io/html/" target="_blank">
   <img align="center" alt="Vitor-HTML" height="90" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
